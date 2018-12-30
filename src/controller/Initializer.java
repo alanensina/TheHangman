@@ -1,6 +1,10 @@
-package model;
+package controller;
 
 import java.util.Scanner;
+
+import model.Checker;
+import model.Player;
+import model.Reaper;
 
 public class Initializer {
 	
